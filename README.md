@@ -52,7 +52,7 @@ I'm always tryina' learn new technologies and try to expand my knowledge base.
 
 ## Currently working on...
 <a href="https://github.com/jtmaston/CIMPLC-Firmware">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtmaston&repo=CIMPLC-Firmwaret&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtmaston&repo=CIMPLC-Firmware&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/jtmaston/CIMPLC-Hardware">
@@ -60,7 +60,7 @@ I'm always tryina' learn new technologies and try to expand my knowledge base.
 </a>   
 
 <a href="https://github.com/jtmaston/PCA9555-ESP32">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtmaston&repo=PCA9555-ESP32t&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtmaston&repo=PCA9555-ESP32&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/jtmaston/AT24-ESP32">
