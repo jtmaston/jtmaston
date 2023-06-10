@@ -37,5 +37,17 @@ I'm always tryina' learn new technologies and try to expand my knowledge base.
 ![x86](https://img.shields.io/badge/Assembly-x86-0091BD.svg?style=for-the-badge&logo=intel&logoColor=white)
 ![ulp](https://img.shields.io/badge/Assembly-ULP-0091BD.svg?style=for-the-badge&logo=espressif&logoColor=white)
 
+### Robotics stuff
+![abb](https://img.shields.io/badge/ABB_RobotStudio-FF9E0F.svg?style=for-the-badge&logo=abbrobotstudio&logoColor=white)
+![cosi](https://img.shields.io/badge/Cosimir_Professional-E60012.svg?style=for-the-badge&logo=mitsubishi&logoColor=white)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtmaston&hide=java,html,tex,javascript,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jtmaston&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 
