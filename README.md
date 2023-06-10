@@ -41,13 +41,28 @@ I'm always tryina' learn new technologies and try to expand my knowledge base.
 ![abb](https://img.shields.io/badge/ABB_RobotStudio-FF9E0F.svg?style=for-the-badge&logo=abbrobotstudio&logoColor=white)
 ![cosi](https://img.shields.io/badge/Cosimir_Professional-E60012.svg?style=for-the-badge&logo=mitsubishi&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/jtmaston/jtmaston">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtmaston&hide=java,html,tex,javascript,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jtmaston&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/jtmaston/jtmaston">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jtmaston&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&rank_icon=github" alt="Axle's GitHub Stats" />
 </a>
 
+## Currently working on...
+<a href="https://github.com/jtmaston/CIMPLC-Firmware">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtmaston&repo=CIMPLC-Firmwaret&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
+<a href="https://github.com/jtmaston/CIMPLC-Hardware">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtmaston&repo=CIMPLC-Hardware&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+
+<a href="https://github.com/jtmaston/PCA9555-ESP32">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtmaston&repo=PCA9555-ESP32t&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/jtmaston/AT24-ESP32">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtmaston&repo=AT24-ESP32&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
