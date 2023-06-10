@@ -33,7 +33,7 @@ I'm always tryina' learn new technologies and try to expand my knowledge base.
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![ARM ASM](https://img.shields.io/badge/Assembly-ARM-0091BD.svg?style=for-the-badge&logo=Arm&logoColor=white)
+![ARM ASM](https://img.shields.io/badge/Assembly-ARM-0091BD.svg?style=for-the-badge&logo=Arm&logoColor=white)<br/>
 ![x86](https://img.shields.io/badge/Assembly-x86-0091BD.svg?style=for-the-badge&logo=intel&logoColor=white)
 ![ulp](https://img.shields.io/badge/Assembly-ULP-0091BD.svg?style=for-the-badge&logo=espressif&logoColor=white)
 
